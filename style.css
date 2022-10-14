@@ -22,5 +22,21 @@ background: radial-gradient(circle, rgba(63,124,251,1) 11%, rgba(252,70,107,1) 1
     color:#fff;
 }
 
+.icon{
+    color:#fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.gallery{
+    background-color: whitesmoke;
+}
 
+.gallery img{
+    border-radius: 5%;
+}
